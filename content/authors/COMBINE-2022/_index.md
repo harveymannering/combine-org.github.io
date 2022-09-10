@@ -89,13 +89,13 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 | &nbsp; | | |
 |:---|:---|:---|
 | 8:30am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
-| 9am  |  <b><i>Breakouts & Tutorials 1</i></b> | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
+| 9am  |  <b><i>Breakouts & Tutorials 1</i></b><br/>Tutorial: **Jupyter NB** | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
 | 10:30am  |  Break | |
-| 11am  |  <b><i>Breakouts & Tutorials 2</i></b> | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
+| 11am  |  <b><i>Breakouts & Tutorials 2</i></b><br/>Tutorial: **SBML to Julia** | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
 | 12:30pm  |  Lunch | |
-| 2pm  |  <b><i>Breakouts & Tutorials 3</i></b> | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
+| 2pm  |  <b><i>Breakouts & Tutorials 3</i></b><br/>Tutorial: **Clinical trial simulations with the Jinkō modeling platform**  | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
 | 3:30pm  |  Break | |
-| 4pm  | <b><i>Breakouts & Tutorials 4</i></b> | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
+| 4pm  | <b><i>Breakouts & Tutorials 4</i></b><br/>Tutorial: **Modelling with VCell** | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
 | 5:30pm  |  Wrap-up | |
 
 <br/>
@@ -104,13 +104,13 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 | &nbsp; | | |
 |:---|:---|:---|
 | 8:30am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
-| 9am  |  <b><i>Breakouts & Tutorials 5</i></b> |*Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 9am  |  <b><i>Breakouts & Tutorials 5</i></b> <br/>Tutorial: **Morpheus, Multi-scale, Multi-cellular, Spatio-temporal Modeling with Hands-on for Your Own Projects** |*Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 10:30am  |  Break | |
-| 11am  |  <b><i>Breakouts & Tutorials 6</i></b> <br/>Tutorial: CovidGraph: Interfaces and Usage | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 11am  |  <b><i>Breakouts & Tutorials 6</i></b> <br/>Tutorial: **CovidGraph: Interfaces and Usage** | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 12:30pm  |  Lunch | |
-| 2pm  |  <b><i>Breakouts & Tutorials 7</i></b> <br/>Tutorial: Creating reproducible biochemical modeling workflows in Python (Part 1) | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 2pm  |  <b><i>Breakouts & Tutorials 7</i></b> <br/>Tutorial: **Creating reproducible biochemical modeling workflows in Python (Part 1)** | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 3:30pm  |  Break | |
-| 4pm  | <b><i>Breakouts & Tutorials 8</i></b> <br/>Tutorial: Creating reproducible biochemical modeling workflows in Python (Part 2) | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 4pm  | <b><i>Breakouts & Tutorials 8</i></b> <br/>Tutorial: **Creating reproducible biochemical modeling workflows in Python (Part 2)** | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 5:30pm  |  Wrap-up | |
 
 <br/>
